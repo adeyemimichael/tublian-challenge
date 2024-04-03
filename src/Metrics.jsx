@@ -18,7 +18,7 @@ function Metrics() {
 </svg>
 </span>
 
-      <input type="text" placeholder='Search ' className='input cursor-pointer pl-2 pr-4    '/>
+      <input type="text" placeholder='Search ' className='input cursor-pointer pl-2 pr-4   outline-none '/>
       </div>
       <div className='flex  flex-col md:flex-row  md:w-auto md:h-auto ml-8'>
 <div className='w-[40px] h-[40px] rounded-full  bg-slate-600 cursor-pointer'>
